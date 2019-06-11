@@ -1,2 +1,2 @@
 # calculadora_proj
-Um desafio técnico proposto
+A proposed technical challenge, which consists of creating a calculator.
